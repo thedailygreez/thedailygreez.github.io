@@ -3456,5 +3456,9 @@
 	margin: 0 15%;
 	padding: 5px 0;
 	text-align: justify;
-    text-indent: 4em;
+}
+
+.quoted {
+	background-color: #DDD;
+	padding: 50px;
 }
