@@ -3460,5 +3460,24 @@
 
 .quoted {
 	background-color: #DDD;
-	padding: 50px;
+	padding: 30px;
+	font-style: italic;
+}
+
+.aggressive-header {
+	letter-spacing: normal;
+	font-weight: bold;
+	font-size: 48px;
+}
+
+.mildly-aggressive-header {
+	letter-spacing: normal;
+	font-weight: bold;
+	font-size: 36px;
+}
+
+.less-aggressive-header {
+	letter-spacing: normal;
+	font-weight: bold;
+	font-size: 24px;
 }
